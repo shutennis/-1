@@ -1,0 +1,112 @@
+@media only screen and (max-width: 640px){
+  .image-logo{
+    position: absolute;
+    top:50%;
+    left:27%;
+  }
+  .mens{
+    position:absolute;
+    top:80%;
+    left:35%;
+  }
+  .polo-contact{
+    flex-wrap: wrap;
+  }
+  .polo-item{
+    width:100%;
+    text-align: center;
+    padding-bottom:30px;
+  }
+  header{
+    display:none;
+  }
+  .header-nav{
+    display: block;
+  }
+  .main-wrapper{
+    padding-top:90px;
+  }
+  .home-wrapper{
+    width:100%;
+    height:500px;
+    background:url(https://static.ralphlauren.co.jp/wp-content/themes/RalphLauren/images/top/new/ph_csh.jpg);
+    background-size: cover;
+  }
+  .home-heading{
+    top:45%;
+    left:8%;
+  }
+  .brand-contact{
+    background-color:#fff;
+    flex-wrap: wrap;
+  }
+  .brand-item{
+    width:100%
+  }
+  .brand-textarea{
+    padding-bottom:50px;
+  }
+  .own-contact{
+    flex-wrap:wrap;
+  }
+  .own-item{
+    width:100%;
+    padding-bottom:30px;
+  }
+  .own-textarea{
+    text-align:center;
+  }
+  .miss-contact{
+    flex-wrap:wrap;
+  }
+  .miss-item{
+    width:100%;
+  }
+  .miss-textarea{
+    padding-bottom:40px;
+  }
+  .looks-contact{
+    flex-wrap: wrap;
+  }
+  .lokks-item{
+    width:100%;
+    margin-right:20px;
+    overflow: hidden;
+    padding-bottom:40px;
+  }
+  .pick-contact{
+    flex-wrap: wrap;
+  }
+  .pick-item{
+    width:100%;
+  }
+  .pick-item img{
+    width:100%;
+    
+  }
+  .pick-wrapper{
+    text-align: center;
+  }
+  .six{
+    text-align: center;
+  }
+  .rl-contact{
+    flex-wrap: wrap;
+  }
+  .rl-item{
+    width:50%;
+    padding:0 10px;
+  }
+  .rl-item img{
+    width:100%;
+  }
+  .info-contact{
+    flex-wrap: wrap;
+  }
+  .info-item{
+    width:50%;
+    text-align:left;
+    
+  }
+
+}
